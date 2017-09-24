@@ -38,7 +38,7 @@ Answer: C
 * D. Manifest file
 Answer: D
 
-### Q6.What does the following line of code achieve? `Intent intent = new Intent(FirstActivity.this, SecondActivity.class );`
+### Q6.What does the following line of code achieve? `Intent intent = new Intent(FirstActivity.this, SecondActivity.class );`
 * A. Creates a hidden Intent.
 * B. Creates an implicit Intent.
 * C. Create an explicit Intent.
@@ -46,81 +46,81 @@ Answer: D
 Answer: C
 
 ### Q7. Which of the following is NOT a valid usage for Intents?
-A. Activate and Activity.
-B. Activate a Service.
-C. Activate a Broadcast receiver.
-D. Activate a SQLite DB Connection.
+* A. Activate and Activity.
+* B. Activate a Service.
+* C. Activate a Broadcast receiver.
+* D. Activate a SQLite DB Connection.
 Answer: D
 
-### Q8. Which of the following is not a valid Android resource file name?
-A. mylayout.xml
-B. myLayout.xml
-C.my_layout.xml
-D.mylayout1.xml
+### Q8. Which of the following is not a valid Android resource file name?
+* A. mylayout.xml
+* B. myLayout.xml
+* C.my_layout.xml
+* D.mylayout1.xml
 Answer: B
 
-### Q9. Which one of the following is not a valid name for process state?
-A. Bound
-B. A Visible
-C. Foreground
-D. Background
+### Q9. Which one of the following is not a valid name for process state?
+* A. Bound
+* B. A Visible
+* C. Foreground
+* D. Background
 Answer: A
 
-### Q10. What is the role of the R.java file in an Android application project?
-A. It contains all resource IDs allowing the developer to reference them from the code using
-integers.
-B. It contains instructions to build the Android application project.
-C. It contains information about content providers of the Android application.
-D. It contains the target SDK version number.
+### Q10. What is the role of the R.java file in an Android application project?
+* A. It contains all resource IDs allowing the developer to reference them from the code using integers.
+* B. It contains instructions to build the Android application project.
+* C. It contains information about content providers of the Android application.
+* D. It contains the target SDK version number.
 Answer: A
 
 ### Q11. What is a correct statement about an XML layout file?
-A. A layout PNG image file.
-B. A file used to draw the content of an Activity.
-C. A file that contains all application permission information.
-D. A file that contains a single activity widget.
+* A. A layout PNG image file.
+* B. A file used to draw the content of an Activity.
+* C. A file that contains all application permission information.
+* D. A file that contains a single activity widget.
 Answer: B
 
 ### Q12. Which folder contains the Android project Java files?
-A. res
-B. manifests
-C. assets
-D. java
+* A. res
+* B. manifests
+* C. assets
+* D. java
 Answer: D
 
-### Q13.Which file specifies the minimum required Android SDK version your application supports?
-A. main.xml
-B. R.java
-C. strings.xml
-D. build.gradle
+### Q13. Which file specifies the minimum required Android SDK version your application supports?
+* A. main.xml
+* B. R.java
+* C. strings.xml
+* D. build.gradle
 Answer: D
 
 ### Q14. What is the parent class of all Activity widgets?
-A. ViewGroup
-B. Layout
-C. View
-D. Widget
+* A. ViewGroup
+* B. Layout
+* C. View
+* D. Widget
 Answer: C
 
-### Q15. What is the name of the class used by Intent to store additional information?
-A. Extra
-B. Parcelable
-C. Bundle
-D. DataStore
+### Q15. What is the name of the class used by Intent to store additional information?
+* A. Extra
+* B. Parcelable
+* C. Bundle
+* D. DataStore
 Answer: C
 
-### Q16.Which of the following is not included in the Android application framework?
-A. WindowManager
-B. NotificationManager
-C. DialerManager
-D. PackageManager
+
+### Q16.Which of the following is not included in the Android application framework?
+* A. WindowManager
+* B. NotificationManager
+* C. DialerManager
+* D. PackageManager
 Answer: C
 
 ### Q17.Which of the following is NOT true about the R.java file?
-A. It is auto-generated during the build of the project.
-B. It is used by developers to access any resource through an ID.
-C. It can be modified manually to change the ID of a resource.
-D. It contains resource IDs for all resources in your /res/ folder.
+* A. It is auto-generated during the build of the project.
+* B. It is used by developers to access any resource through an ID.
+* C. It can be modified manually to change the ID of a resource.
+* D. It contains resource IDs for all resources in your /res/ folder.
 Answer: C
 
 ### Q18.You can create a custom view by extending class Activity.
